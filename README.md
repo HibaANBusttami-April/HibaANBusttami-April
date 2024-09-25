@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on data-driven projects that merge analytical clarity with creative intuition, especially in fields like predictive analytics, data visualization, and BIM (Building Information Modeling).
 
-📫 How to reach me: You can connect with me via email at hiba@example.com or reach out on LinkedIn.
+📫 How to reach me: You can connect with me via email at (bustamiheba@gmail.com) or reach out on LinkedIn (http://www.linkedin.com/in/hibabusttami).
 
 😄 Pronouns: She/Her
 
