@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @HibaANBusttami-April
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @HibaANBusttami-April
 
-<!---
-HibaANBusttami-April/HibaANBusttami-April is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in turning data into creative solutions that drive business growth, combining my background in architecture, fashion design, and data science.
+
+🌱 I’m currently learning how to leverage machine learning and AI techniques at AXSOS to discover meaningful trends and transform insights into strategic decisions.
+
+💞️ I’m looking to collaborate on data-driven projects that merge analytical clarity with creative intuition, especially in fields like predictive analytics, data visualization, and BIM (Building Information Modeling).
+
+📫 How to reach me: You can connect with me via email at hiba@example.com or reach out on LinkedIn.
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I find knitting to be a form of creative meditation that helps me enhance my attention to detail—whether I’m solving problems in fashion design or data science!
